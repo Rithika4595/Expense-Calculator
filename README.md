@@ -1,5 +1,5 @@
 # Expense-Calculator
-A .Net Core MVC-based finance management application that hueps users track income, expenses, and budgeting effciently.
+A .Net Core MVC-based finance management application that helps users track income, expenses, and budgeting effciently.
 
 ## Features
 - Add, edit, and delete transactions
